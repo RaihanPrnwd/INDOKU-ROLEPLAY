@@ -34,12 +34,12 @@
 > - Storage: 2.6GB ruang kosong untuk unduhan dan instalasi
 
 ## INSTALISASI
-**Mobile (Android)**
+### Mobile (Android)
 
 **Alyn SA-MP Mobile Launcher (Android)**
 > **https://play.google.com/store/apps/details?id=ro.alynsampmobile.launcher&pcampaignid=web_share**
 
-**PC (Dekstop)**
+### PC (Dekstop)
 
 **Rekomendasi:**
 >  **Grand Theft Auto San Andreas**
