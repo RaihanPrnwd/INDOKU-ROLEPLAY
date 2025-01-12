@@ -4,15 +4,15 @@ Indoku Roleplay adalah server roleplay berbasis SA-MP (San Andreas Multiplayer) 
 
 ## Persyaratan Sistem PC (Desktop)
 ### Minimum:
-OS: Windows 10 64 Bit
-Processor: 1GHz Intel Pentium atau AMD Athlon
-Memory: 256MB RAM
-Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
-Sound Card: DirectX 9 compatible
-DVD-ROM: 8x DVD ROM Drive
-DirectX Version: DirectX 9
-HDD Space: 4.7GB
-Input: Keyboard dan Mouse
+> OS: Windows 10 64 Bit
+> Processor: 1GHz Intel Pentium atau AMD Athlon
+> Memory: 256MB RAM
+> Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
+> Sound Card: DirectX 9 compatible
+> DVD-ROM: 8x DVD ROM Drive
+> DirectX Version: DirectX 9
+> HDD Space: 4.7GB
+> Input: Keyboard dan Mouse
 
 ### Rekomendasi:
 Processor: Intel Core i3 atau AMD Ryzen 5
