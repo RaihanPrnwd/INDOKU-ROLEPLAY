@@ -34,6 +34,12 @@
 > - Storage: 3GB ruang kosong untuk performa optimal
 
 ## INSTALISASI
-### Grand Theft Auto San Andreas PC (Dekstop)
+### Grand Theft Auto San Andreas PC (Desktop)
 > **
+
+### Voice System PC (Desktop)
+> ** 
+
+### Open Multiplayer Laucher PC (Desktop)
+> ** https://github.com/openmultiplayer/launcher/releases/latest **
 
