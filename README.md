@@ -3,7 +3,7 @@
 **Indoku Roleplay** adalah server roleplay berbasis **SA-MP** ***(San Andreas Multiplayer)*** yang menawarkan pengalaman bermain peran yang mendalam dan realistis. Server ini dirancang untuk memberikan pemain kebebasan dalam menjalani kehidupan virtual mereka di dunia GTA San Andreas.
 
 ### Persyaratan Sistem PC (Desktop)
-`#### Minimum:`
+#### Minimum:
 > 1. OS: Windows 10 64 Bit
 > 2. Processor: 1GHz Intel Pentium atau AMD Athlon
 > 3. Memory: 256MB RAM
@@ -32,3 +32,7 @@
 > 2. Processor: 2 GHz octa-core atau lebih baik
 > 3. Memory: 4GB RAM atau lebih
 > 4. Storage: 3GB ruang kosong untuk performa optimal
+
+## INSTALISASI
+### Grand Theft Auto San Andreas PC (Dekstop)
+
