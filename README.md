@@ -63,8 +63,8 @@
 >  **SA-MP Voice Client 0.3.7-R3**
 >  > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
 >  
->  **SA-MP Voice Launcher V.0,3,7-R3-1**
+>  **SA-MP Voice Launcher V.0.3.7-R3-1**
 >  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
 >
->  **SA-MP  PC (Desktop)**
+>  **SA-MP Laucnher PC V.0.3.7-R3-1**
 >  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
