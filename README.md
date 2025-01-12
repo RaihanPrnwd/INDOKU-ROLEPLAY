@@ -4,7 +4,7 @@
 
 ## Persyaratan Sistem PC (Desktop)
 **Rekomendasi:**
-> - OS: Windows 11 64 Bit atau lebih baru
+> - OS: Windows 10 64 Bit atau lebih baru
 > - Processor: 1GHz Intel Pentium atau AMD Athlon atau lebih
 > - Memory: 256MB RAM atau lebih
 > - Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
