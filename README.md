@@ -34,10 +34,10 @@
 > - Storage: 3GB ruang kosong untuk performa optimal
 
 ## INSTALISASI
-### Grand Theft Auto San Andreas PC (Desktop)
+### __Grand Theft Auto San Andreas PC (Desktop)__
 > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
 
-### Voice System PC (Desktop)
+### __Voice System PC (Desktop)__
 **SA-MP Voice Client 0.3.7-R3**
 > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
 
