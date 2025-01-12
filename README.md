@@ -4,10 +4,10 @@
 
 ### Persyaratan Sistem PC (Desktop)
 #### Minimum:
-> 1. OS: Windows 10 64 Bit
-> 2. Processor: 1GHz Intel Pentium atau AMD Athlon
-> 3. Memory: 256MB RAM
-> 4. Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
+> OS: Windows 10 64 Bit
+> Processor: 1GHz Intel Pentium atau AMD Athlon
+> Memory: 256MB RAM
+> Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
 > 5. Sound Card: DirectX 9 compatible
 > 6. DVD-ROM: 8x DVD ROM Drive
 > 7. DirectX Version: DirectX 9
