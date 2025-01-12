@@ -4,21 +4,26 @@
 
 ## Persyaratan Sistem PC (Desktop)
 **Rekomendasi:**
-> - OS: Windows 10 64 Bit
-> - Processor: 1GHz Intel Pentium atau AMD Athlon
-> - Memory: 256MB RAM
+> - OS: Windows 11 64 Bit atau lebih baru
+> - Processor: 1GHz Intel Pentium atau AMD Athlon atau lebih
+> - Memory: 256MB RAM atau lebih
 > - Video Card: 64MB DirectX 9 compatible (GeForce3 atau lebih baik)
-> - Sound Card: DirectX 9 compatible
-> - DVD-ROM: 8x DVD ROM Drive
-> - DirectX Version: DirectX 9
-> - HDD Space: 4.7GB
+> - Sound Card: DirectX 9 compatible atau lebih
+> - DVD-ROM: 8x DVD ROM Drive atau lebih
+> - DirectX Version: DirectX 9 atau lebih
+> - HDD Space: 4.7GB atau lebih
 > - Input: Keyboard dan Mouse
 
 **Minimum:**
+> - OS: Windows 7 64 Bit
 > - Processor: Intel Core i3 atau AMD Ryzen 5
 > - Memory: 4GB RAM atau lebih
-> - Video Card: Geforce 6 Series atau lebih baik
-> - HDD Space: 4.7GB
+> - Video Card: Geforce 6 Series
+> - Sound Card: DirectX 9 compatible
+> - DVD-ROM: 4x DVD ROM Drive
+> - DirectX Version: DirectX 9
+> - HDD Space: 2.7GB
+> - Input: Keyboard dan Mouse
 
 ## Persyaratan Sistem Mobile (Android):
 **Rekomendasi:**
@@ -28,7 +33,7 @@
 > - Storage: 3GB ruang kosong untuk performa optimal
 
 **Minimum:**
-> - OS: Android 7.0 atau lebih baru
+> - OS: Android 7.0
 > - Processor: 1.5 GHz quad-core
 > - Memory: 1.5GB RAM
 > - Storage: 2.6GB ruang kosong untuk unduhan dan instalasi
