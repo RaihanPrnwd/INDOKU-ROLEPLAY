@@ -35,13 +35,13 @@
 
 ## INSTALISASI
 ### Grand Theft Auto San Andreas PC (Desktop)
-> **
-
-### Voice System PC (Desktop)
-**SA-MP Voice Client 0.3.7-R3 .zip**
 > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
 
-**SA-MP Voice Launcher V.0,3,7-R3-1.exe**
+### Voice System PC (Desktop)
+**SA-MP Voice Client 0.3.7-R3**
+> ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
+
+**SA-MP Voice Launcher V.0,3,7-R3-1**
 > **https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
 
 ### Open Multiplayer Laucher PC (Desktop)
