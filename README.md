@@ -41,5 +41,5 @@
 > ** 
 
 ### Open Multiplayer Laucher PC (Desktop)
-> ** https://github.com/openmultiplayer/launcher/releases/latest **
+> **https://github.com/openmultiplayer/launcher/releases/latest**
 
