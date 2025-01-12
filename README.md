@@ -1,6 +1,6 @@
 # INDOKU
 
-Indoku Roleplay adalah server roleplay berbasis SA-MP (San Andreas Multiplayer) yang menawarkan pengalaman bermain peran yang mendalam dan realistis. Server ini dirancang untuk memberikan pemain kebebasan dalam menjalani kehidupan virtual mereka di dunia GTA San Andreas.
+**Indoku Roleplay** adalah server roleplay berbasis **SA-MP** ***(San Andreas Multiplayer)*** yang menawarkan pengalaman bermain peran yang mendalam dan realistis. Server ini dirancang untuk memberikan pemain kebebasan dalam menjalani kehidupan virtual mereka di dunia GTA San Andreas.
 
 ## Persyaratan Sistem PC (Desktop)
 ### Minimum:
