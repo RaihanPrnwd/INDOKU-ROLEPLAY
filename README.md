@@ -41,7 +41,7 @@
 **PC (Dekstop):**
 **Rekomendasi**
 >  **Grand Theft Auto San Andreas**
->  > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
+>  > ***https://drive.google.com/file/d/15gL49f5965hhUARnxuzjYpZIGI3FAuR8/view?usp=sharing***
 >  
 >  **Voice System**
 >  **SA-MP Voice Client 0.3.7-R3**
@@ -53,5 +53,16 @@
 >  **Open Multiplayer Laucher**
 >  > **https://www.open.mp/**
 
-**SA-MP  PC (Desktop)**
-> **https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing**
+**Rekomendasi**
+>  **Grand Theft Auto San Andreas**
+>  > ***https://drive.google.com/file/d/15gL49f5965hhUARnxuzjYpZIGI3FAuR8/view?usp=sharing***
+>  
+>  **Voice System**
+>  **SA-MP Voice Client 0.3.7-R3**
+>  > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
+>  
+>  **SA-MP Voice Launcher V.0,3,7-R3-1**
+>  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
+>
+>  **SA-MP  PC (Desktop)**
+>  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
