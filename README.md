@@ -35,4 +35,6 @@
 
 ## INSTALISASI
 ### Grand Theft Auto San Andreas PC (Dekstop)
+#### Full Version
+#### Lite Version
 
