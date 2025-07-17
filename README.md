@@ -37,39 +37,3 @@
 > - Processor: 1.5 GHz quad-core
 > - Memory: 1.5GB RAM
 > - Storage: 2.6GB ruang kosong untuk unduhan dan instalasi
-
-## INSTALISASI
-### Mobile (Android)
-
-**Alyn SA-MP Mobile Launcher (Android)**
-> **https://play.google.com/store/apps/details?id=ro.alynsampmobile.launcher&pcampaignid=web_share**
-
-### PC (Dekstop)
-
-**Rekomendasi:**
->  **Grand Theft Auto San Andreas**
->  > ***https://drive.google.com/file/d/15gL49f5965hhUARnxuzjYpZIGI3FAuR8/view?usp=sharing***
->  
->  **Voice System**
->  **OPEN-MP Voice Client 0.3.7-R3-1**
->  > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
->  
->  **OPEN-MP Voice Launcher 0.3.7-R3-1**
->  > **https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
->
->  **Open Multiplayer Laucher**
->  > **https://www.open.mp/**
-
-**Minimum:**
->  **Grand Theft Auto San Andreas**
->  > ***https://drive.google.com/file/d/15gL49f5965hhUARnxuzjYpZIGI3FAuR8/view?usp=sharing***
->  
->  **Voice System**
->  **SA-MP Voice Client 0.3.7-R3-1**
->  > ***https://drive.google.com/file/d/1gMPpVdZchO3BWTYlYfRav-6ZlDTTaOGf/view?usp=sharing***
->  
->  **SA-MP Voice Launcher 0.3.7-R3-1**
->  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
->
->  **SA-MP Laucnher PC 0.3.7-R3-1**
->  > ***https://drive.google.com/file/d/1o_T2ykq6lQtDLG3QZH0YJEKTE5ob3Vqd/view?usp=sharing***
